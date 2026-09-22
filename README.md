@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="SEU_GIF_AQUI" width="500px"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px"/>
 
 <br>
 
 **"It worked yesterday."**
 
-<br>
+<br><br>
 
 <a href="mailto:SEU_EMAIL">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/gustavo-berg-31b97b1b9/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
